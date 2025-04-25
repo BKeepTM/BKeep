@@ -1,15 +1,15 @@
 [submodule "bkeep-api"]
 	path = bkeep-api
-	url = https://github.com/BKeepTM/bkeep-api
+	url = git@github.com:BKeepTM/bkeep-api.git
 [submodule "bkeep-web-app"]
 	path = bkeep-web-app
-	url = https://github.com/BKeepTM/bkeep-web-app
+	url = git@github.com:BKeepTM/bkeep-web-app.git
 [submodule "bkeep-esp32"]
 	path = bkeep-esp32
-	url = https://github.com/BKeepTM/bkeep-esp32
+	url = git@github.com:BKeepTM/bkeep-esp32.git
 [submodule "bkeep-cms"]
 	path = bkeep-cms
-	url = https://github.com/BKeepTM/bkeep-cms
+	url = git@github.com:BKeepTM/bkeep-cms.git
 [submodule "bkeep-scraper"]
 	path = bkeep-scraper
-	url = https://github.com/BKeepTM/bkeep-scraper
+	url = git@github.com:BKeepTM/bkeep-scraper.git
