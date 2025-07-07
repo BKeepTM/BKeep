@@ -1,12 +1,16 @@
 [submodule "bkeep-api"]
 	path = bkeep-api
 	url = https://github.com/BKeepTM/bkeep-api.git
+	branch = main
 [submodule "bkeep-web-app"]
 	path = bkeep-web-app
 	url = https://github.com/BKeepTM/bkeep-web-app.git
+	branch = main
 [submodule "bkeep-prevajanje"]
 	path = bkeep-prevajanje
 	url = https://github.com/BKeepTM/bkeep-prevajanje.git
+	branch = main
 [submodule "bkeep-scraper"]
 	path = bkeep-scraper
 	url = https://github.com/BKeepTM/bkeep-scraper.git
+	branch = main
