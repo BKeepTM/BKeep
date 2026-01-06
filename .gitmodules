@@ -18,3 +18,7 @@
 	path = bkeep-pora
 	url = https://github.com/BKeepTM/bkeep-pora.git
 	branch = dev
+[submodule "bkeep-rri"]
+	path = bkeep-rri
+	url = https://github.com/BKeepTM/bkeep-rri.git
+	branch = dev
