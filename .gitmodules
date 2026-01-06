@@ -14,3 +14,8 @@
 	path = bkeep-scraper
 	url = https://github.com/BKeepTM/bkeep-scraper.git
 	branch = main
+
+[submodule "bkeep-pora"]
+	path = bkeep-pora
+	url = https://github.com/BKeepTM/bkeep-pora.git
+	branch = dev
