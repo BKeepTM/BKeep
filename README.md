@@ -6,6 +6,10 @@ Dobrodošli v glavnem repozitoriju za projekt **BKeep**, ki združuje vse module
 - `bkeep-web-app` – Web frontend
 - `bkeep-scraper` – Scraperji podatkov
 - `bkeep-prevajanje` – Domensko specifični programski jezik
+- `bkeep-pora` – Android platformna aplikacija
+- `bkeep-rri` – Zemljevid za predmet Razvoj računalniških iger
+- `bkeep-blockchain` – Veriženje blokov podatkov panjev
+- `ESP32` – Koda za ESP32 mikrokontroler
 
 ---
 
