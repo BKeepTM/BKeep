@@ -26,3 +26,7 @@
 	path = bkeep-blockchain
 	url = https://github.com/BKeepTM/bkeep-blockchain.git
 	branch = main
+[submodule "ESP32"]
+	path = ESP32
+	url = https://github.com/BKeepTM/ESP32.git
+	branch = main
