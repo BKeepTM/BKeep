@@ -27,9 +27,13 @@ git submodule update --remote --merge
 ```
 
 # Funkcionalnosti
+## Spletna aplikacija
 
-## Spletni vmesnik
-TODO
+Spletni vmesnik je namenjen upravljanju čebelarskih podatkov preko brskalnika. Omogoča pregled in upravljanje čebelnjakov, panjev, meritev, zapiskov ter drugih podatkov, zbranih preko mobilne aplikacije in IoT naprav.
+
+Uporabnikom omogoča centraliziran pregled nad stanjem sistema, analizo statističnih podatkov, analizo zdravja in števila populacije panja s pomočjo računalniškega vida ter povezovanje z ostalimi moduli platforme BKeep.
+
+> Posnetek zaslona
 
 ## Mobilna aplikacija
 
