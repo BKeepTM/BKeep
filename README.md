@@ -53,7 +53,12 @@ Mobilna aplikacija je namenjena čebelarjem za delo na terenu in vključuje: <br
 <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/7b74d150-5c69-4160-88db-b43d5e5f444b" />
 
 ## Namizna aplikacija
-TODO
+Namizna aplikacija je namenjena bolj podrobnemu pregledu stanja panjev. Glavna funkcijonalost je rastorski zemljevid, ki prikazuje stanje panjev. Omogoča tudi ustvarjaanje zapiskov za vsak panj, prikaz grafa teže panja in uporaba simulacije za prihodnji donos medu. Aplikacija je povezana tudi z scraperjem, ki prejema podatke o trenutnem vremenu in jih prikaže.
+
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/92c6cf63-1f5b-4ae7-b81d-848ce0e8afbb" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6623f814-a182-48fd-a636-6e63fa8fd7ae" />
+
+
 
 ## IoT naprave
 
