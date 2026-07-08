@@ -25,15 +25,17 @@ cd BKeep
 ```bash
 git submodule update --remote --merge
 ```
+<br>
 
-# Funkcionalnosti
+# Komponente platforme BKeep
 ## Spletna aplikacija
 
 Spletni vmesnik je namenjen upravljanju čebelarskih podatkov preko brskalnika. Omogoča pregled in upravljanje čebelnjakov, panjev, meritev, zapiskov ter drugih podatkov, zbranih preko mobilne aplikacije in IoT naprav.
 
-Uporabnikom omogoča centraliziran pregled nad stanjem sistema, analizo statističnih podatkov, analizo zdravja in števila populacije panja s pomočjo računalniškega vida ter povezovanje z ostalimi moduli platforme BKeep.
+Uporabnikom omogoča centraliziran pregled nad stanjem sistema, pregled statističnih podatkov, analizo zdravja in števila populacije panja s pomočjo računalniškega vida ter povezovanje z ostalimi moduli platforme BKeep.
 
-> Posnetek zaslona
+<img width="2530" height="1326" alt="image" src="https://github.com/user-attachments/assets/02043756-05be-427a-bbf7-844ea7ff12cf" /> <br>
+<img width="2528" height="626" alt="image" src="https://github.com/user-attachments/assets/33e290e9-c5d6-4ae6-9393-8370d1446b82" /> <br>
 
 ## Mobilna aplikacija
 
@@ -52,5 +54,11 @@ Mobilna aplikacija je namenjena čebelarjem za delo na terenu in vključuje: <br
 
 ## Namizna aplikacija
 TODO
+
+## IoT naprave
+
+Tehnica za merjenje mase panjev je zgrajena iz 4 merilnih celic, ki so povezane na HX71. Ta pretvori analogno meritev v digitalni signal (sprememba mase) in ga posreduje mikrokrmilniku (ESP32), kjer se z ustrezno kalibracijo pretvori v meritev mase. Ta mertiev se preko APIja pošlje in shrani v podatkovno bazo ter prikaže v uporabniškem vmesniku (npr. spletni strani, android aplikaciji). <br>
+
+<img width="4000" height="1800" alt="20260202_160606" src="https://github.com/user-attachments/assets/ed9b8932-a86a-441b-9326-516018d64fda" />
 
 
